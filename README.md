@@ -5,7 +5,8 @@ machine learning to predict the destination of pedestrian traffic.
 
 ## System overview
 
-This system is composed of # parts.
+This system is composed of 5 parts:
+
 1. Pedestrian detection: A Haars cassade classifier is used to detect
    pedestrians in a frame.
 2. Facial recognition: Using a bounding box around the pedestrian, a Haars
